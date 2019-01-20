@@ -26,7 +26,7 @@ app = Flask(__name__)
 
 line_bot_api = LineBotApi('oLsqhlIebRHFivHcH2GM+CeJY1DQDvBebI7Pf5w3jk2LZVbBlW2POBPjvj9oGmK2HxFYHEyAPJo2K9eIVfNS/Oid+0+K9cOmp2CMIYfqGoYeC32gc/p9A8BNeVmdtQo0z0vcr6zCszn2AYH6ZASOngdB04t89/1O/w1cDnyilFU=')
 handler = WebhookHandler('8c387ea22dee83e1faead7a115703b0b')
-adminid = 'U7b19d844231cb84d0422c5772f565023'
+adminid = 'U197754829ad00e9942fbd7f3ba14ea6e'
 botstart = time.time()
 workdir = os.getcwd()
 myanimelist = MAL()
