@@ -1,0 +1,29 @@
+/youtube-search: [query]
+/youtube-link: [youtube link]
+/youtube-audio: [youtube link]
+/youtube-video: [youtube link]
+/youtube-download: [youtube link]
+/youtube-download-video: [youtube link]
+/youtube-download-audio: [youtube link]
+
+/instapost [post-ke] [username]
+/instastory [username]
+/instainfo [username]
+
+/gimage: [query]
+
+/lyric: [query]
+
+/gif: [query]
+
+/wiki: [query]
+
+/chat: [query]
+
+/gaul: [query]
+
+/deviant: [query]
+
+/sholat: [lokasi]
+
+/leave
